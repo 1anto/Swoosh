@@ -1,7 +1,7 @@
-package `in`.antojose.swoosh
+package `in`.antojose.swoosh.Controller
 
+import `in`.antojose.swoosh.R
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 

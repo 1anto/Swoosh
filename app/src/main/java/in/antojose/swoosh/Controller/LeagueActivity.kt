@@ -1,7 +1,8 @@
-package `in`.antojose.swoosh
+package `in`.antojose.swoosh.Controller
 
+import `in`.antojose.swoosh.R
+import `in`.antojose.swoosh.Utilities.EXTRA_LEAGUE
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast

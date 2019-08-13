@@ -1,4 +1,4 @@
-package `in`.antojose.swoosh
+package `in`.antojose.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
